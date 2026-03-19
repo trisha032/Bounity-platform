@@ -38,6 +38,9 @@ Stellar Testnet
 ---
 
 ## 📸 Deployment Screenshot
+<img width="1851" height="963" alt="image" src="https://github.com/user-attachments/assets/7ce6e991-b82c-4b2b-a73f-9b460996280a" />
+<img width="1851" height="963" alt="image" src="https://github.com/user-attachments/assets/7ce6e991-b82c-4b2b-a73f-9b460996280a" />
+
 
 ## 🛠️ Tech Stack
 
